@@ -111,3 +111,5 @@
 - BMtech
   - management of the development of the application and the software, and the DAOs 
 
+## Questions
+- how to implement guardians on the BMO and BM dao? - to ensure that the decision are in line with the mission and values
